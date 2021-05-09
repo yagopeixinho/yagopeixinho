@@ -1,5 +1,5 @@
 # Welcome
-<p>
+<p align="center">
   <a href="https://github.com/yagopeixinho/github-readme-stats">
     <img
       align=""
@@ -33,7 +33,7 @@ Born and raised through cables and wires. In every problem you can be sure that 
 	</a>
 				    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.instagram.com/yagopeixinho/?hl=pt-br">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-		badge&logo=instagram&logoColor=white" width="164px">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="164px">
 	</a>
 			    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:yagopeixinho03@gmail.com">
