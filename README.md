@@ -1,10 +1,10 @@
-<p align="center">
+<p align="">
   <a href="">
-    <img align="center" width="700" src="web1_cygzgd.gif" />
+    <img align="right" width="500" src="web1_cygzgd.gif" />
     <a href="https://github.com/yagopeixinho/github-readme-stats">
     <br>
     <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagopeixinho&layout=compact" width="500"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagopeixinho&layout=compact" width="500"/>
   </a>
 </p>
 
