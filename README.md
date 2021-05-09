@@ -1,16 +1,19 @@
+
+
 # Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 My name is Yago Peixinho, I'm from Brazil. I am a student of Systems Analysis and Development, that has been studying and working as a Front-End Developer. I also intend to be a Full-Stack Web Developer and I'm working on it. 💻 
 
 Born and raised through cables and wires. In every problem you can be sure that I will give the best I can to solve.
 <br>
-
+<br>
 🌎 𝒯𝓇𝓎 𝓉𝑜 𝓂𝑜𝓋𝑒 𝓉𝒽𝑒 𝓌𝑜𝓇𝓁𝒹 - 𝓉𝒽𝑒 𝒻𝒾𝓇𝓈𝓉 𝓈𝓉𝑒𝓅 𝓌𝒾𝓁𝓁 𝒷𝑒 𝓂𝑜𝓋𝒾𝓃𝑔 – *Plateau*.
 <br>
+
+#### A little about myself...
  - 📍 From Brazil
  - 👨🏻‍💻 Student of Systems Analysis and Development
  - 📫 Send me a message on [Instagram](https://www.instagram.com/yagopeixinho/?hl=pt-br). I will certainly answer you and let be friends =)
-
 
 ## Reach me out!
 <p align="center">
