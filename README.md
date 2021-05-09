@@ -1,10 +1,10 @@
 <p align="center">
   <a href="#">
     <img align="center" width="700" src="dev.gif" />
-    <a href="https://github.com/yuripeixinho/github-readme-stats">
+    <a href="https://github.com/yagopeixinho/github-readme-stats">
     <br>
     <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuripeixinho&layout=compact" width="500"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagopeixinho&layout=compact" width="500"/>
   </a>
 </p>
 
