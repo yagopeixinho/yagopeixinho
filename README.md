@@ -32,15 +32,15 @@ Born and raised through cables and wires. In every problem you can be sure that 
 
 
 ## My skills
+<br>
 <p align="center">
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="60"
-src="https://www.pinclipart.com/picdir/big/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png">
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </p>
 
 <br>
