@@ -1,3 +1,26 @@
-# Hi! I'm Yago!
-<img src="sem-titulo1.png">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div align='center'><img src="aaaaa.png"></div>
+
+<br>
+<div="center">
+
+My name is Yago Peixinho, I'm from Brazil. I am a student of Systems Analysis and Development, that has been studying and working as a Front-End Developer. I also intend to be a Full-Stack Web Developer and I'm working on it. 💻 
+<div>
+ 
+
+## About me
+
+  
+<a href="#"><img align="left" width="150" height="#" src="aaaaa.png"></a>
+ - 📍 From Brazil
+ - 👨🏻‍💻 Student of Systems Analysis and Development
+ - 📫 Send me a message on [Instagram](https://www.instagram.com/yagopeixinho/?hl=pt-br). I will certainly answer you and let be friends =)
+<br>
+ 
+  
+## Redes sociais
+<div align="center">
+<a href="https://www.instagram.com/yagopeixinho/?hl=pt-br"><img src="https://image.flaticon.com/icons/png/512/1384/1384015.png" width="5%"></a>
+</div>
+  
+## Minhas habilidades
+  
