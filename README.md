@@ -23,4 +23,6 @@ My name is Yago Peixinho, I'm from Brazil. I am a student of Systems Analysis an
 </div>
   
 ## Minhas habilidades
-  
+<div align="center">
+
+</div>
