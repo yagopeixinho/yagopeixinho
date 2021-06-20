@@ -1,4 +1,4 @@
-<div align='center'><img src="aaaaa.png"></div>
+<div align='center'><img src="sem-titulo1.png"></div>
 
 <br>
 <div="center">
@@ -6,10 +6,8 @@
 My name is Yago Peixinho, I'm from Brazil. I am a student of Systems Analysis and Development, that has been studying and working as a Front-End Developer. I also intend to be a Full-Stack Web Developer and I'm working on it. 💻 
 <div>
  
-
 ## About me
-
-  
+ 
 <a href="#"><img align="left" width="150" height="#" src="aaaaa.png"></a>
  - 📍 From Brazil
  - 👨🏻‍💻 Student of Systems Analysis and Development
@@ -24,5 +22,5 @@ My name is Yago Peixinho, I'm from Brazil. I am a student of Systems Analysis an
   
 ## Minhas habilidades
 <div align="center">
-
+ 
 </div>
