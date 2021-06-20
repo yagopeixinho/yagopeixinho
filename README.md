@@ -1,9 +1,9 @@
-<div align='center'><img src="sem-titulo1.png"></div>
+<div align='center'><img src="sem-titulo1.png.jpg"></div>
 
 <br>
 <div="center">
-
-My name is Yago Peixinho, I'm from Brazil. I am a student of Systems Analysis and Development, that has been studying and working as a Front-End Developer. I also intend to be a Full-Stack Web Developer and I'm working on it. 💻 
+E aí! Como vai? Me chamo Yago Peixinho sou estudante de Tecnologia de Informação; tenho interesse em todas as áreas da tecnologia, desde Segurança de Informação, Desenvolvimento Web, Mobile, até Inteligência Artificial. Atualmente estou estudando desenvolvimento web full-stack, mas futuramente pretendo expandir os horizontes em todos os âmbitos. Sinta-se a vontade para visitar os meus repositórios, dar fork e favoritar, até mesmo me enviar uma mensagem em minhas redes sociais, provavelmente irei te responder, vamos ser amigos =)
+ 
 <div>
  
 ## About me
