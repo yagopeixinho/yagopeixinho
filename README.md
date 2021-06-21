@@ -31,11 +31,7 @@ What's up! How are you? My name is Yago Peixinho, I am a student of Information 
 
  
 <div align="center">
-<a href="https://www.instagram.com/yagopeixinho/?hl=pt-br"><img src="https://image.flaticon.com/icons/png/512/1077/1077042.png" width="5%"></a>    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/Pv3sEHSG5K"><img src="https://image.flaticon.com/icons/png/512/2111/2111363.png" width="5%"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send?phone=5583986165982"><img src="https://img.icons8.com/pastel-glyph/2x/whatsapp--v2.png" width="5%"></a>
+<a href="https://linktr.ee/yagopeixinho"><img src="https://image.flaticon.com/icons/png/512/876/876207.png" width="4%"></a>    
 
 </div>
 <br>
