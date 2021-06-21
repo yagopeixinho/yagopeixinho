@@ -2,7 +2,7 @@
 
 <br>
 <div="center">
-E aí! Como vai? Me chamo Yago Peixinho sou estudante de Tecnologia de Informação; tenho interesse em todas as áreas da tecnologia, desde Segurança de Informação, Desenvolvimento Web, Mobile, até Inteligência Artificial. Atualmente estou estudando desenvolvimento web full-stack, mas futuramente pretendo expandir os horizontes em todos os âmbitos. Sinta-se a vontade para visitar os meus repositórios, dar fork e favoritar, até mesmo me enviar uma mensagem em minhas redes sociais, provavelmente irei te responder, vamos ser amigos =)
+What's up! How are you? My name is Yago Peixinho, I am a student of Information Technology; I'm interested in all areas of technology, from Information Security, Web Development, Mobile, to Artificial Intelligence. I am currently studying full-stack web development, but in the future I intend to expand my horizons in all areas. Feel free to visit my repositories, fork and bookmark, even send me a message on my social networks.
  
 <div>
  
@@ -11,7 +11,7 @@ E aí! Como vai? Me chamo Yago Peixinho sou estudante de Tecnologia de Informaç
 <a href="#"><img align="left" width="150" height="#" src="yagopeixinho.png"></a>
  - 📍 From Brazil
  - 👨🏻‍💻 Student of Systems Analysis and Development
- - 📫 Send me a message on [Instagram](https://www.instagram.com/yagopeixinho/?hl=pt-br). I will certainly answer you and let be friends =)
+ - 📫 Send me a message on [Instagram](https://www.instagram.com/yagopeixinho/?hl=pt-br). I will certainly answer you and let be friends ( ﾉ ^ ｰ ^)ﾉ
  
 <br>
 <br>
@@ -25,7 +25,7 @@ E aí! Como vai? Me chamo Yago Peixinho sou estudante de Tecnologia de Informaç
  
 <div align="center">
 <a href="https://www.instagram.com/yagopeixinho/?hl=pt-br"><img src="https://image.flaticon.com/icons/png/512/1077/1077042.png" width="5%"></a>    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/yagopeixinho/?hl=pt-br"><img src="https://image.flaticon.com/icons/png/512/2111/2111363.png" width="5%"></a>
 </div>
   
