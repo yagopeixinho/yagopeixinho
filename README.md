@@ -24,9 +24,9 @@ E aí! Como vai? Me chamo Yago Peixinho sou estudante de Tecnologia de Informaç
  </div>
  
 <div align="center">
-<a href="https://www.instagram.com/yagopeixinho/?hl=pt-br"><img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="5%"></a>    
+<a href="https://www.instagram.com/yagopeixinho/?hl=pt-br"><img src="https://image.flaticon.com/icons/png/512/1077/1077042.png" width="5%"></a>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/yagopeixinho/?hl=pt-br"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="5%"></a>
+<a href="https://www.instagram.com/yagopeixinho/?hl=pt-br"><img src="https://image.flaticon.com/icons/png/512/2111/2111363.png" width="5%"></a>
 </div>
   
   
