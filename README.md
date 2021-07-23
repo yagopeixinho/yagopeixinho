@@ -1,8 +1,10 @@
-<div align='center'><img src="sem-titulo1.png.jpg"></div>
+# Hey there! 🦈
+
+<div align='center'><img src="githuba.png"></div>
 
 <br>
 <div="center">
-What's up! How are you? My name is Yago Peixinho, I am a student of Information Technology; I'm interested in all areas of technology, from Information Security, Web Development, Mobile, to Artificial Intelligence. I am currently studying full-stack web development, but in the future I intend to expand my horizons in all areas. Feel free to visit my repositories, fork and bookmark, even send me a message on my social networks. Currently I've been studying a lot of HTML, CSS, JavaScript and Bootstrap on the front-end. On the backend my knowledge is PHP and MySQL. I am open to new languages and knowledge.
+Hey, what's up? My name is Yago Peixinho and I am currently a software developer and programmer. I'm enthusiastic about all areas of technology. I am currently studying Information Technology. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
 <br>
 <br>
  
@@ -14,14 +16,40 @@ What's up! How are you? My name is Yago Peixinho, I am a student of Information 
  
  </div>
  
-<a href="#"><img align="left" width="150" height="#" src="yagopeixinho.png"></a>
- - 📍 From Brazil
+<br>
+ 
+<a href="#"><img align="left" width="150" height="#" src="yago.png"></a>
+ - 📍 From João Pessoa, Brazil
  - 👨🏻‍💻 Student of Systems Analysis and Development
  - 📫 Send me a message on [Instagram](https://www.instagram.com/yagopeixinho/?hl=pt-br). I will certainly answer you and let be friends ( ﾉ ^ ｰ ^)ﾉ
  
 <br>
 <br>
+<br>
+<br>
+ 
+<div align="center">
+  
+## My knowledge
+  
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>  
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/ width="5%">
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+&nbsp;
+<img src="https://img.icons8.com/offices/80/000000/php-logo.png"/ width="5%">
+&nbsp;
+<img src="https://img.icons8.com/fluent/48/000000/laravel.png"/>
+  
+ <br>
+ 
 
+ </div>
+ 
+ <br>
 
 <div align="center">
  
