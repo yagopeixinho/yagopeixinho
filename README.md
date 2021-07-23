@@ -39,7 +39,7 @@ if(youDontKnowMe = true) {
   
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yagopeixinho&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&include_all_commits=true" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=yagopeixinho&count_private=true&show_icons=true&custom_title=Yago%20Peixinho%20GitHub%20Status&hide=issues&include_all_commits=true" width="50%">
 
 <br>
 <br>
