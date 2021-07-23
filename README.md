@@ -1,6 +1,6 @@
 # Hey there! 🦈
 
-<div align='center'><img src="githuba.png"></div>
+<div align='center'><img src="githuba1.png"></div>
 
 <br>
 <div="center">
@@ -16,23 +16,28 @@ Hey, what's up? My name is Yago Peixinho and I am currently a software developer
  
  </div>
  
-<br>
  
 <a href="#"><img align="left" width="150" height="#" src="yago.png"></a>
  - 📍 From João Pessoa, Brazil
  - 👨🏻‍💻 Student of Systems Analysis and Development
  - 📫 Send me a message on [Instagram](https://www.instagram.com/yagopeixinho/?hl=pt-br). I will certainly answer you and let be friends ( ﾉ ^ ｰ ^)ﾉ
  
-<br>
-<br>
-<br>
-<br>
-<br>
+ ````
+if(youDontKnowMe = true) {
+	myInstagram = getElementById('@yagopeixinho');
+	myInstagram.style.button = 'follow';
+} else {
+	sendMeMessage = true
+}
+````
+ 
  
 <div align="center">
   
 ## My knowledge
   
+<br>
+ 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 &nbsp;
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>  
@@ -44,7 +49,12 @@ Hey, what's up? My name is Yago Peixinho and I am currently a software developer
 <img src="https://img.icons8.com/offices/80/000000/php-logo.png"/ width="5%">
 &nbsp;
 <img src="https://img.icons8.com/fluent/48/000000/laravel.png"/>
-  
+
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagopeixinho&layout=compact" width="40%">
+<img src="https://github-readme-stats.vercel.app/api?username=yagopeixinho&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues" width="46.6%">
+ 
  <br>
  
 
