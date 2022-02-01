@@ -1,10 +1,10 @@
-# Hey there! 🐬
+# hey there! 🐬
 
 <div align='center'><img src="github.png"></div>
 
 <br>
 <div="center">
-Hey, what's up? My name is Yago Peixinho and I am currently a software developer and programmer. I'm enthusiastic about all areas of technology. I am currently studying Information Technology. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
+hey, what's up? My name is Yago Peixinho and I am currently a software developer and programmer. I'm enthusiastic about all areas of technology. I am currently studying Information Technology. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
 <br>
 <br>
  
@@ -12,7 +12,7 @@ Hey, what's up? My name is Yago Peixinho and I am currently a software developer
  
 <div align="center">
  
-## About me
+## about me
  
  </div>
  
@@ -21,10 +21,10 @@ Hey, what's up? My name is Yago Peixinho and I am currently a software developer
 <br>
 	
 
- - 📍 From João Pessoa, Brazil
- - 👨🏻‍💻 Student of Systems Analysis and Development
- - 📕 Interested in new learning
- - 📫 Send me a [message](https://linktr.ee/yagopeixinho). I will certainly answer you and let be friends ( ﾉ ^ ｰ ^)ﾉ
+ - 📍 from João Pessoa, Brazil
+ - 👨🏻‍💻 student of Systems Analysis and Development
+ - 📕 interested in new learning
+ - 📫 send me a [message](https://linktr.ee/yagopeixinho). I will certainly answer you and let be friends ( ﾉ ^ ｰ ^)ﾉ
  
  
 <br>
@@ -33,7 +33,7 @@ Hey, what's up? My name is Yago Peixinho and I am currently a software developer
 	
 <div align="center">
 
-## Contact
+## contact
  </div>
   <br>
 </div>
