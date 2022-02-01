@@ -4,7 +4,7 @@
 
 <br>
 <div="center">
-Hey, what's up? My name is Yago Peixinho and I am currently a software developer and programmer. I'm enthusiastic about all areas of technology. I am currently studying Information Technology. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks. 💻
+Hey, what's up? My name is Yago Peixinho and I am currently a software developer and programmer. I'm enthusiastic about all areas of technology. I am currently studying Information Technology. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
 <br>
 <br>
  
