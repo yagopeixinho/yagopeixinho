@@ -30,38 +30,7 @@ Hey, what's up? My name is Yago Peixinho and I am currently a software developer
 <br>
 <br>
 <br>
-<br>
-	
-<div align="center">
-  
-## My knowledge
-  
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yagopeixinho&count_private=true&show_icons=true&custom_title=Yago%20Peixinho%20GitHub%20Status&hide=issues&include_all_commits=true" width="50%">
-
-<br>
-<br>
-<br>
-	
-<img src="https://image.flaticon.com/icons/png/512/29/29515.png" width="8%"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://image.flaticon.com/icons/png/512/29/29600.png" width="8%"/>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://image.flaticon.com/icons/png/512/136/136448.png"/ width="8%">
-
-
-
-<br>
- 
- <br>
-
- </div>
- 
- <br>
-
-<div align="center">
- 
 ## Contact
  </div>
   <br>
