@@ -30,10 +30,13 @@ Hey, what's up? My name is Yago Peixinho and I am currently a software developer
 <br>
 <br>
 <br>
+	
+<div align="center">
 
 ## Contact
  </div>
   <br>
+</div>
 
  
 <div align="center">
