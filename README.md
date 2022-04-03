@@ -1,17 +1,17 @@
 <img align="left" style="margin-right: 21px" width="150" src="assets/images/meninoDePijama.jpg"/>
 
-<h2> 
-    Hi, I'm Yago Peixinho! 
+<h3> 
+    hi, i'm yago peixinho! 
     <img src="https://media.giphy.com/media/l378w6DoOV26903Sg/giphy.gif" width="50">
-</h2>
+</h3>
 
 <img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
     <p>
-        <em>Software enginner at 
-            <a href="http://www.unb.br">Maurício de Nasau University</a> 
+        <em>software enginner at 
+            <a href="http://www.unb.br">maurício de nasau university</a> 
             <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="30">
 </br>
-        Software developer at 
+        software developer at 
             <a href="https://www.thoughtworks.com">Seno</a>
             <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"> 
         </em>
@@ -23,15 +23,17 @@
 <br>
 <br>
 
-## A little more about me...<img src="https://media.giphy.com/media/l74vwdp2hpeATzE1si/giphy.gif" width="60">
+## a little more about me...<img src="https://media.giphy.com/media/l74vwdp2hpeATzE1si/giphy.gif" width="60">
 
 <details>
     <summary>
-         Who I am?
+         who I am?
     </summary>
+    
+<br>
 
 <img src="assets/images/yagoPeixinhoSoftwareDeveloperBanner.png" width="100%">
-Hey, what's up? My name is Yago Peixinho and I am currently a software developer and programmer. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
+hey, what's up? My name is Yago Peixinho and I am currently a software developer and programmer. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
 
 <br>
 
@@ -39,19 +41,19 @@ Hey, what's up? My name is Yago Peixinho and I am currently a software developer
 
 <br>
     
-- Born and raised in Brazil, João Pessoa, Paraíba
-- Student of Systems Analysis and Development by [uninassau](https://www.uninassau.edu.br/)
-- Self-taught
-- Send me a [instagram direct](https://www.instagram.com/yagopeixinho/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
-- One of my hobbies is playing video games, [send me a message](https://www.instagram.com/yagopeixinho/) and let's play together :D
+- born and raised in Brazil, João Pessoa, Paraíba
+- student of Systems Analysis and Development by [uninassau](https://www.uninassau.edu.br/)
+- self-taught
+- send me a [instagram direct](https://www.instagram.com/yagopeixinho/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
+- one of my hobbies is playing video games, [send me a message](https://www.instagram.com/yagopeixinho/) and let's play together :D
 
 <br>
-
+    
 </details>
 
 <details>
     <summary>
-        Technologies and knowledge    
+        technologies and knowledge    
     </summary>
 
 ```javascript
@@ -77,9 +79,10 @@ const yagoPeixinho = {
 
 <details>
     <summary>
-         Github Stats
+         github stats
     </summary>
 
+<br>
 <br>
 
 <div align="center">
