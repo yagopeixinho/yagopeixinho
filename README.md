@@ -7,12 +7,13 @@
 
 <img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
     <p>
-        <em>software enginner at 
-            <a href="http://www.unb.br">maurício de nasau university</a> 
+        <em>software developer by
+            <a href="https://www.uninassau.edu.br">maurício de nasau university</a> 
+            and self-taught
             <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="30">
 </br>
         software developer at 
-            <a href="https://www.thoughtworks.com">Seno</a>
+            <a href="https://www.seno-ti.com.br">seno</a>
             <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"> 
         </em>
     </p>
@@ -21,13 +22,12 @@
 
 <br>
 <br>
-<br>
 
 ## a little more about me...<img src="https://media.giphy.com/media/l74vwdp2hpeATzE1si/giphy.gif" width="60">
 
 <details>
     <summary>
-         who I am?
+         who i am?
     </summary>
     
 <br>
