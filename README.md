@@ -37,6 +37,8 @@ Hey, what's up? My name is Yago Peixinho and I am currently a software developer
 
 <img src="https://media.giphy.com/media/aLI73eIgT41b2/giphy.gif" align="right" height="150" />
 
+<br>
+    
 - Born and raised in Brazil, João Pessoa, Paraíba
 - Student of Systems Analysis and Development by [uninassau](https://www.uninassau.edu.br/)
 - Self-taught
