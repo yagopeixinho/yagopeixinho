@@ -7,10 +7,10 @@
 <br>
 
 <div>
-    <h2> 
+    <p style="font-size: 21px"> 
         hi, i'm yago peixinho!
         <img src="https://media.giphy.com/media/I9DgEmCM9mDhgBkhBj/giphy.gif" width="50">
-    </h2>
+    </p>
      <img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
     <div>
         <p>
@@ -18,7 +18,7 @@
             <a href="https://www.uninassau.edu.br/">
                 uninassau
             </a>
-            <img src="https://media.giphy.com/media/aJGlyRKYBvnBSiWgaE/giphy.gif" width="50">
+            <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="32">
         </p>
         <p>
             software developer at
@@ -27,6 +27,8 @@
         </p>
 <div>
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -41,14 +43,11 @@ hey, what's up? My name is Yago Peixinho and I am currently a software developer
   
   <a href="https://samujjwaal.me/"><img src="https://media.giphy.com/media/aLI73eIgT41b2/giphy.gif" align="right" height="150" /></a>
   
- - 📍 born and raised in brazil, joão pessoa, paraíba. 
- - 👨🏻‍💻 student of systems analysis and development by [uninassau](https://www.uninassau.edu.br/)
- - 📕 self-taught
- - 📫 send me a [message](https://linktr.ee/yagopeixinho). I will certainly answer you and let be friends ( ﾉ ^ ｰ ^)ﾉ
-
-</details>
-
-<br>
+-  born and raised in brazil, joão pessoa, paraíba. 
+ - student of systems analysis and development by [uninassau](https://www.uninassau.edu.br/)
+ - self-taught
+ - send me a [instagram direct](https://www.instagram.com/yagopeixinho/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
+ - one of my hobbies is playing video games, [send me a message](https://www.instagram.com/yagopeixinho/) and let's play together :D
 
 ```javascript
 const yago = {
@@ -69,3 +68,5 @@ const yago = {
   languages: ["portuguese", "english"],
 };
 ```
+
+</details>
