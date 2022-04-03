@@ -1,4 +1,4 @@
-# hey there! 🐬
+# hey there!
 
 <div align='center'><img src="github.png"></div>
 
