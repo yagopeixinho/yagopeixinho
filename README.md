@@ -87,16 +87,9 @@ const yagoPeixinho = {
 <div>
 
 <div>
-    <img align="left" width=48% src="https://github-readme-stats.vercel.app/api?username=yagopeixinho&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    <img align="right" width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagopeixinho&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=49.7% src="https://github-readme-stats.vercel.app/api?username=yagopeixinho&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img  width=49.7% src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagopeixinho&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <div>
     <img src="https://activity-graph.herokuapp.com/graph?username=yagopeixinho&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
