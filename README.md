@@ -8,13 +8,15 @@
 <img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
     <p>
         <em>software developer by
-            <a href="https://www.uninassau.edu.br">maurício de nasau university</a> 
-            and self-taught
+            <a href="https://www.uninassau.edu.br">maurício de nasau university</a>
             <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="30">
 </br>
-        software developer at 
+      software developer at 
             <a href="https://www.seno-ti.com.br">seno</a>
             <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"> 
+</br>   
+         self-taught student 
+            <img src="https://media.giphy.com/media/5kFzSJG3fJdgK00RPV/giphy.gif" width="30"> 
         </em>
     </p>
 
