@@ -2,21 +2,18 @@
 
 <h3> 
     hi, i'm yago peixinho! 
-    <img src="https://media.giphy.com/media/l378w6DoOV26903Sg/giphy.gif" width="50">
 </h3>
 
 <img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
     <p>
         <em>software developer by
             <a href="https://www.uninassau.edu.br">maurício de nasau university</a>
+            and self-taught
             <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="30">
 </br>
       software developer at 
             <a href="https://www.seno-ti.com.br">seno</a>
-            <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"> 
-</br>   
-         self-taught student 
-            <img src="https://media.giphy.com/media/5kFzSJG3fJdgK00RPV/giphy.gif" width="30"> 
+            <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30">     
         </em>
     </p>
 
@@ -39,12 +36,10 @@ hey, what's up? My name is Yago Peixinho and I am currently a software developer
 
 <br>
 
-<img src="https://media.giphy.com/media/aLI73eIgT41b2/giphy.gif" align="right" height="150" />
-
 <br>
     
-- born and raised in Brazil, João Pessoa, Paraíba
-- student of Systems Analysis and Development by [uninassau](https://www.uninassau.edu.br/)
+- born and raised in Brazil
+- student and technology enthusiast
 - self-taught
 - send me a [instagram direct](https://www.instagram.com/yagopeixinho/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
 - one of my hobbies is playing video games, [send me a message](https://www.instagram.com/yagopeixinho/) and let's play together :D
@@ -70,8 +65,19 @@ const yagoPeixinho = {
     MySQL,
     Docker,
     Git,
-    Github,
     SCSS,
+    Axios,
+    Flask,
+    Python,
+    Libraries,
+    helpTools: [
+        Postman,
+        Jira,
+        Bitbucket,
+        Confluence,
+        Figma,
+        MySQL Workbench
+    ]
   ],
   languages: ["portuguese", "english"],
 };
