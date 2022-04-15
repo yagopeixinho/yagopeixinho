@@ -7,7 +7,7 @@
 <img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
     <p>
         <em>software developer by
-            <a href="https://www.uninassau.edu.br">maurício de nasau university</a>
+            <a href="https://www.uninassau.edu.br">uninassau</a>
             and self-taught
             <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="30">
 </br>
