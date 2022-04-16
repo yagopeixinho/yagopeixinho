@@ -18,6 +18,7 @@
     </p>
 
 [![GitHub yagopeixinho](https://img.shields.io/github/followers/yagopeixinho?label=follow&style=social)](https://github.com/yagopeixinho)
+[![Linkedin: yagopeixinho](https://img.shields.io/badge/-yagopeixinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yagopeixinho/)](https://www.linkedin.com/in/yagopeixinho/)
 
 <br>
 <br>
