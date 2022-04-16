@@ -26,7 +26,7 @@
 
 <details>
     <summary>
-         Who i am?
+         Who I am?
     </summary>
     
 <br>
@@ -66,8 +66,6 @@ const yagoPeixinho = {
     Git,
     SCSS,
     Axios,
-    Flask,
-    Python,
     Libraries,
     helpTools: [
         Postman,
