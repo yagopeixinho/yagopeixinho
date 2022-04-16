@@ -22,6 +22,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 ## A little more about me...<img src="https://media.giphy.com/media/l74vwdp2hpeATzE1si/giphy.gif" width="60">
 
@@ -45,7 +47,6 @@ Hey, what's up? My name is Yago Peixinho and I am currently a software developer
 - Send me a [instagram direct](https://www.instagram.com/yagopeixinho/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
 - One of my hobbies is playing video games, [send me a message](https://www.instagram.com/yagopeixinho/) and let's play together :D
 
-    
 </details>
 
 <details>
@@ -106,4 +107,12 @@ const yagoPeixinho = {
 
 </details>
 
+<br>
 
+<div align="center">
+
+## Contact
+
+[<img src="assets/icons/menu.png" width="80px">](https://beacons.ai/yagopeixinho)
+
+</div>
