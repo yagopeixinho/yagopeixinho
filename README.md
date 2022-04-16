@@ -1,18 +1,18 @@
 <img align="left" style="margin-right: 21px" width="150" src="assets/images/meninoDePijama.jpg"/>
 
 <h3> 
-    hi, i'm yago peixinho! 
+    Hi, I'm Yago Peixinho! 
 </h3>
 
 <img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
     <p>
-        <em>software developer by
-            <a href="https://www.uninassau.edu.br">uninassau</a>
+        <em>Software developer by
+            <a href="https://www.uninassau.edu.br">Uninassau</a>
             and self-taught
             <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="30">
 </br>
-      software developer at 
-            <a href="https://www.seno-ti.com.br">seno</a>
+      Software developer at 
+            <a href="https://www.seno-ti.com.br">Seno</a>
             <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30">     
         </em>
     </p>
@@ -22,35 +22,34 @@
 <br>
 <br>
 
-## a little more about me...<img src="https://media.giphy.com/media/l74vwdp2hpeATzE1si/giphy.gif" width="60">
+## A little more about me...<img src="https://media.giphy.com/media/l74vwdp2hpeATzE1si/giphy.gif" width="60">
 
 <details>
     <summary>
-         who i am?
+         Who i am?
     </summary>
     
 <br>
 
 <img src="assets/images/yagoPeixinhoSoftwareDeveloperBanner.png" width="100%">
-hey, what's up? My name is Yago Peixinho and I am currently a software developer and programmer. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
+Hey, what's up? My name is Yago Peixinho and I am currently a software developer and programmer. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
 
 <br>
 
 <br>
     
-- born and raised in Brazil
-- student and technology enthusiast
-- self-taught
-- send me a [instagram direct](https://www.instagram.com/yagopeixinho/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
-- one of my hobbies is playing video games, [send me a message](https://www.instagram.com/yagopeixinho/) and let's play together :D
+- Born and raised in Brazil
+- Student and technology enthusiast
+- Self-taught
+- Send me a [instagram direct](https://www.instagram.com/yagopeixinho/) and let be friends ( ﾉ ^ ｰ ^)ﾉ
+- One of my hobbies is playing video games, [send me a message](https://www.instagram.com/yagopeixinho/) and let's play together :D
 
-<br>
     
 </details>
 
 <details>
     <summary>
-        technologies and knowledge    
+        Technologies and knowledge    
     </summary>
 
 ```javascript
@@ -87,7 +86,7 @@ const yagoPeixinho = {
 
 <details>
     <summary>
-         github stats
+         Github stats
     </summary>
 
 <br>
