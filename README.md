@@ -34,7 +34,7 @@
     
 <br>
 
-<img src="assets/images/yagoPeixinhoSoftwareDeveloperBanner.png" width="100%">
+<img src="assets/images/yagoPeixinhoSoftwareDeveloperBannerNoTitle.png" width="100%">
 Hey, what's up? My name is Yago Peixinho and I am currently a software developer and programmer. I'm always willing to learn new things, especially when it comes to technology. Feel free to visit my repositories and message me through my social networks.
 
 <br>
