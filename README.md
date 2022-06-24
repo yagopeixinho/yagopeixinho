@@ -5,17 +5,10 @@
 </h3>
 
 <img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
-    <p>
-        <em>Software developer by
-            <a href="https://www.uninassau.edu.br">Uninassau</a>
-            and self-taught
-            <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="30">
-</br>
-      Software developer at 
-            <a href="https://www.seno-ti.com.br">Seno</a>
-            <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30">     
-        </em>
-    </p>
+Software developer, student and technology enthusiast
+
+<br>
+<br>
 
 [![GitHub yagopeixinho](https://img.shields.io/github/followers/yagopeixinho?label=follow&style=social)](https://github.com/yagopeixinho)
 [![Linkedin: yagopeixinho](https://img.shields.io/badge/-yagopeixinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yagopeixinho/)](https://www.linkedin.com/in/yagopeixinho/)
@@ -25,7 +18,7 @@
 <br>
 <br>
 
-## A little more about me...<img src="https://media.giphy.com/media/l74vwdp2hpeATzE1si/giphy.gif" width="60">
+## A little more about me...
 
 <details>
     <summary>
