@@ -4,7 +4,7 @@
 <img align="left" style="margin-right: 21px" width="220" src="assets/images/meninoDePijama.jpg"/>
 
 
-<img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="270">
+<img align="right" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="240">
 
 <br/>
 
