@@ -4,8 +4,6 @@
 
 <img align="right" style="margin-right: 100px" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="340px">
 
-<br/>
-
 # Hi, I'm Yago Peixinho!
 🧑‍💻 Full Stack Software Developer focused on React, TypeScript, JavaScript and Python. <br>
 Self-taught and passionate about learning and always open to new technologies!
