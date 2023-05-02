@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" style="margin-right: 100px" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="340px">
+<img align="right" style="margin-right: 100px" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300px">
 
 # Hi, I'm Yago Peixinho!
 🧑‍💻 Full Stack Software Developer focused on React, TypeScript, JavaScript and Python. <br>
