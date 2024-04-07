@@ -2,16 +2,14 @@
 
 <br/>
 
-<img align="right" style="margin-right: 100px" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300px">
+<img align="right" style="margin-right: 100px;" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300px">
 
-# Hi, I'm Yago Peixinho!
-🧑‍💻 Full Stack Software Developer focused on React, TypeScript, JavaScript and Python. <br>
+### Hi, I'm Yago Peixinho!
+Software Developer Full Stack focused on React, TypeScript, C#, and .NET Framework. <br>
 Self-taught and passionate about learning and always open to new technologies!
 
 My utility belt in Full Stack development:
 <br>
-ᅠᅠ• React + Typescript and JavaScript
+ᅠᅠ• React + TypeScript
 <br>
-ᅠᅠ• Python + Flask
-<br>
-ᅠᅠ• HTML, SASS, CSS
+ᅠᅠ• C# + .NET Framework
