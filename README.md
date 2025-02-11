@@ -5,8 +5,7 @@
 <img align="right" style="margin-right: 200px;" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300px">
 
 ### Hi, I'm Yago Peixinho!
-Full Stack Software Developer focused on C# + .NET and TypeScript + React. Currently, 
-I work at JCM, applying my Full Stack knowledge to create robust solutions in the Closed 
-Entities and Complementary Pension market. I also contribute to the Ridae interest group, 
-where I use my skills as a Full Stack developer to work on complete applications and diverse 
-technologies, from requirements elicitation to project deployment and evolution.
+I'm a mid-level developer with expertise in C#, .NET, TypeScript, React, SQL, and MySQL, along with strong knowledge of CSS and preprocessors like SASS. 
+I have experience developing mobile applications using React Native and working on artificial intelligence projects with Python. I’m involved in 
+the entire software development lifecycle, covering CI/CD, Git Flow, Azure DevOps, Microsoft Azure, and Docker, with a focus on best practices and 
+continuous high-quality delivery through well-structured pipelines.
