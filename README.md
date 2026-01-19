@@ -1,11 +1,12 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGjHlvFnXkezQ/profile-displaybackgroundimage-shrink_350_1400/B4DZg93dzcHYAc-/0/1753384607446?e=1756339200&v=beta&t=YXSFXv3LWSTEIiHsM3KHAgTbLZBzO8z6h8Gd0CecCXA" width="100%">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQH6YVN_QMhQJQ/profile-displaybackgroundimage-shrink_350_1400/B4EZvIh3P6KcAY-/0/1768595879323?e=1770249600&v=beta&t=PEwLtbbSnE5lIAii_-QNXV8Ukvu802VqTvIPse34mZc" width="100%">
 
 <br/>
 
 <img align="right" style="margin-right: 200px;" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300px">
 
 ### Hi, I'm Yago Peixinho!
-I'm a mid-level developer with expertise in C#, .NET, TypeScript, React, SQL, and MySQL, along with strong knowledge of CSS and preprocessors like SASS. 
-I have experience developing mobile applications using React Native and working on artificial intelligence projects with Python. I’m involved in 
-the entire software development lifecycle, covering CI/CD, Git Flow, Azure DevOps, Microsoft Azure, and Docker, with a focus on best practices and 
-continuous high-quality delivery through well-structured pipelines.
+Mid-Level Software Engineer with experience in C#, .NET, TypeScript, React, SQL, and MySQL, along with strong proficiency in CSS and preprocessors such as SASS. I work end to end across the software development lifecycle, from solution design to production delivery and ongoing support.
+
+I have hands-on experience with CI/CD, Git Flow, Azure DevOps, Microsoft Azure, and Docker, with a strong focus on best practices, automation, and high-quality continuous delivery through well-structured pipelines.
+
+I also work with application observability and production support, using tools such as Sentry and Grafana, as well as providing technical support and direct communication with end users through Freshdesk, ensuring system stability, fast incident resolution, and continuous improvement.
