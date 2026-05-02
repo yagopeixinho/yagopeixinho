@@ -1,12 +1,12 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQH6YVN_QMhQJQ/profile-displaybackgroundimage-shrink_350_1400/B4EZvIh3P6KcAY-/0/1768595879323?e=1770249600&v=beta&t=PEwLtbbSnE5lIAii_-QNXV8Ukvu802VqTvIPse34mZc" width="100%">
+<img src="assets/images/1768595879323.jpg">
 
 <br/>
 
 <img align="right" style="margin-right: 200px;" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300px">
 
 ### Hi, I'm Yago Peixinho!
-Mid-Level Software Engineer with experience in C#, .NET, TypeScript, React, SQL, and MySQL, along with strong proficiency in CSS and preprocessors such as SASS. I work end to end across the software development lifecycle, from solution design to production delivery and ongoing support.
+Software Engineer with +4 years modernizing and architecting systems across diverse industries — private pension, SaaS, and the nonprofit sector. Specialized in C#/.NET and React, with hands-on experience in Python, AI and domain-driven architectures (DDD, CQRS, Clean Architecture).
 
-I have hands-on experience with CI/CD, Git Flow, Azure DevOps, Microsoft Azure, and Docker, with a strong focus on best practices, automation, and high-quality continuous delivery through well-structured pipelines.
+Led the migration of a legacy system (Stored Procedures, in production since 2009) to a modular architecture, in an ISO 27001. Developed a platform with +40K users and ~2 million interactions (Expo Revestir), with deliveries for FHC Institute, Sou da Paz and Conectas ecosystem. 
 
-I also work with application observability and production support, using tools such as Sentry and Grafana, as well as providing technical support and direct communication with end users through Freshdesk, ensuring system stability, fast incident resolution, and continuous improvement.
+Currently leading the financial squad at JCM Consultores, responsible for architectural decisions, team development, and continuous product evolution. Experience with Azure, Docker, CI/CD and Azure DevOps ecosystem.
